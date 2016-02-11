@@ -4,7 +4,7 @@ easyXDM is a Javascript library that enables you as a developer to easily work a
 
 **Some of the goals for the project are that it should**
 
-* be easy to use!!!
+* be easy to use!!!!!
 * be self contained, <del>no dependencies</del> (Now requires Flash for the FlashTransport) (not counting JSON)
 * be light weight
 * be flexible
